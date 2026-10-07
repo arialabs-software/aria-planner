@@ -1,0 +1,13 @@
+{
+  "name": "aria-marketplace",
+  "owner": {
+    "name": "Aria"
+  },
+  "plugins": [
+    {
+      "name": "aria-planner",
+      "source": "./",
+      "description": "Modo planificador: divide un objetivo en artifacts pequeños y ejecutables dentro de docs/"
+    }
+  ]
+}
